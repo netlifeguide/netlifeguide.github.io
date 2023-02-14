@@ -40,6 +40,12 @@ export default {
                 ]
             },
             {
+                text: '软件',
+                items: [
+                    { text: '聚合漫画软件', link: '/app/tachiyomi'}
+                ]
+            },
+            {
                 text: '技巧',
                 items: [
                     { text: 'BT 下载', link: '/guide/BT' }
