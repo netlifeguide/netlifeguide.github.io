@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a,N as r}from"./chunks/framework.0799945b.js";const b=JSON.parse('{"title":"网上冲浪指南","description":"","frontmatter":{},"headers":[],"relativePath":"start.md","lastUpdated":1675513313000}'),o={name:"start.md"},s=r("",7),_=[s];function c(n,i,p,d,l,h){return a(),e("div",null,_)}const f=t(o,[["render",c]]);export{b as __pageData,f as default};
