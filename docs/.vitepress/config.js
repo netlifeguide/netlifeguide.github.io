@@ -48,13 +48,15 @@ export default {
             {
                 text: '技巧',
                 items: [
-                    { text: 'BT 下载', link: '/guide/BT' }
+                    { text: 'BT 下载', link: '/guide/BT' },
+                    { text: '观看本地视频', link: '/guide/video' }
                 ]
             },
             {
                 text: '拓展',
                 items: [
                     { text: '如何搜图', link: '/hero' },
+                    { text: '资源网站整合', link: '/sites' }
                 ]
             }
         ]

@@ -44,18 +44,4 @@ BT 即 BitTorrent，是一个开放的点对点文件下载协议。
 
 ## 寻找资源
 至此，您已经配置好了您的 BT 客户端，接下来就是寻找资源并下载了。
-### 动画/音声
-- [萌番组](https://bangumi.moe)
-支持中国大陆地区直连，特别推荐。
-- [ACG.RIP](https://acg.rip)
-- [末日动漫资源组](https://share.acgnx.se)
-- [动漫花园](https://share.dmhy.org)
-历史最久，资源最多，考古的时候非常有用。
-- [Nyaa](https://nyaa.si)
-### 游戏
-- [RuTracker](https://rutracker.net)
-正如其名，是俄罗斯的站点，游戏资源丰富，大多数以 iso 格式发布。搜索需要登录，但也可在搜索游戏名时加上关键词 rutracker 来进行搜索。
-- [FitGirls Repacks](https://fitgirl-repacks.site)
-致力于游戏重打包的个人站点，注意下载后需要用内置的软件进行解压安装后才可游玩。
-### 电影
-- [YTS](https://yts.rs)
+请参见 
